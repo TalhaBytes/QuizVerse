@@ -178,3 +178,8 @@ This is a portable folder build, not an installer. The executable is unsigned. T
 ## License
 
 QuizVerse source code and original artwork/audio are provided under the [MIT License](LICENSE). Third-party components retain their own licenses.
+
+## Author
+
+**Muhammad Talha Khan**  
+GitHub: [@TalhaBytes](https://github.com/TalhaBytes)
