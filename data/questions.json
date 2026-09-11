@@ -1,0 +1,2216 @@
+[
+  {
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "How many sides does a hexagon have?",
+    "answers": [
+      "Six",
+      "Five",
+      "Seven",
+      "Eight"
+    ],
+    "correct": "Six",
+    "explanation": "The prefix hexa- means six."
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which instrument is used to measure temperature?",
+    "answers": [
+      "Thermometer",
+      "Barometer",
+      "Compass",
+      "Ruler"
+    ],
+    "correct": "Thermometer",
+    "explanation": "A thermometer measures temperature."
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "What is the main ingredient in traditional guacamole?",
+    "answers": [
+      "Avocado",
+      "Potato",
+      "Pea",
+      "Cucumber"
+    ],
+    "correct": "Avocado",
+    "explanation": "Guacamole is made from mashed avocado."
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "How many days are in a leap year in the Gregorian calendar?",
+    "answers": [
+      "366",
+      "364",
+      "365",
+      "367"
+    ],
+    "correct": "366",
+    "explanation": "A leap year adds February 29 to the usual 365 days."
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which color is made by mixing blue and yellow paint in a basic art model?",
+    "answers": [
+      "Green",
+      "Purple",
+      "Orange",
+      "Red"
+    ],
+    "correct": "Green",
+    "explanation": "Blue and yellow pigments are commonly taught as producing green."
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "kind": "True/False",
+    "text": "A triangle has three sides.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True",
+    "explanation": "A triangle is a polygon with three sides."
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which language is the source of the word 'karaoke'?",
+    "answers": [
+      "Japanese",
+      "Italian",
+      "Arabic",
+      "Greek"
+    ],
+    "correct": "Japanese",
+    "explanation": "Karaoke comes from Japanese words meaning empty orchestra."
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which metal is the primary component of bronze?",
+    "answers": [
+      "Copper",
+      "Iron",
+      "Zinc",
+      "Aluminum"
+    ],
+    "correct": "Copper",
+    "explanation": "Bronze is primarily copper, usually alloyed with tin."
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "What does the Roman numeral XL represent?",
+    "answers": [
+      "40",
+      "60",
+      "90",
+      "15"
+    ],
+    "correct": "40",
+    "explanation": "X before L subtracts ten from fifty."
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which board game includes the properties Boardwalk and Park Place in its US edition?",
+    "answers": [
+      "Monopoly",
+      "Clue",
+      "Risk",
+      "Scrabble"
+    ],
+    "correct": "Monopoly",
+    "explanation": "Boardwalk and Park Place are properties in the US Monopoly board."
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "What is the traditional Japanese art of paper folding called?",
+    "answers": [
+      "Origami",
+      "Ikebana",
+      "Kintsugi",
+      "Bonsai"
+    ],
+    "correct": "Origami",
+    "explanation": "Origami creates forms by folding paper."
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "kind": "True/False",
+    "text": "The Roman numeral D represents 500.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True",
+    "explanation": "D represents five hundred in Roman numerals."
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "What is the study of flags called?",
+    "answers": [
+      "Vexillology",
+      "Numismatics",
+      "Philately",
+      "Heraldry"
+    ],
+    "correct": "Vexillology",
+    "explanation": "Vexillology is the study of flags and their use."
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "What is the SI base unit of luminous intensity?",
+    "answers": [
+      "Candela",
+      "Lumen",
+      "Lux",
+      "Watt"
+    ],
+    "correct": "Candela",
+    "explanation": "The candela is the SI base unit of luminous intensity."
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which calendar was introduced by Pope Gregory XIII in 1582?",
+    "answers": [
+      "Gregorian",
+      "Julian",
+      "Coptic",
+      "French Republican"
+    ],
+    "correct": "Gregorian",
+    "explanation": "The Gregorian reform corrected drift in the Julian calendar."
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "What does an odometer measure?",
+    "answers": [
+      "Distance traveled",
+      "Air pressure",
+      "Wind speed",
+      "Engine temperature"
+    ],
+    "correct": "Distance traveled",
+    "explanation": "An odometer records the distance a vehicle travels."
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which branch of mathematics studies properties preserved by continuous deformation?",
+    "answers": [
+      "Topology",
+      "Arithmetic",
+      "Trigonometry",
+      "Number theory"
+    ],
+    "correct": "Topology",
+    "explanation": "Topology studies properties such as connectedness under continuous deformation."
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "kind": "True/False",
+    "text": "A googol is ten raised to the power of one hundred.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True",
+    "explanation": "A googol is 10 to the power 100."
+  },
+  {
+    "category": "Science",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which planet is known as the Red Planet?",
+    "answers": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Neptune"
+    ],
+    "correct": "Mars",
+    "explanation": "Iron oxides on the surface give Mars its reddish appearance."
+  },
+  {
+    "category": "Science",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "What is the chemical formula for water?",
+    "answers": [
+      "H2O",
+      "CO2",
+      "O2",
+      "NaCl"
+    ],
+    "correct": "H2O",
+    "explanation": "A water molecule has two hydrogen atoms and one oxygen atom."
+  },
+  {
+    "category": "Science",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which organ pumps blood through the human body?",
+    "answers": [
+      "Heart",
+      "Liver",
+      "Stomach",
+      "Kidney"
+    ],
+    "correct": "Heart",
+    "explanation": "The heart contracts to circulate blood."
+  },
+  {
+    "category": "Science",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "What force attracts objects toward Earth?",
+    "answers": [
+      "Gravity",
+      "Friction",
+      "Magnetism",
+      "Buoyancy"
+    ],
+    "correct": "Gravity",
+    "explanation": "Gravity attracts masses toward each other."
+  },
+  {
+    "category": "Science",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "What gas do plants take in during photosynthesis?",
+    "answers": [
+      "Carbon dioxide",
+      "Helium",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correct": "Carbon dioxide",
+    "explanation": "Plants use carbon dioxide and water to make sugars during photosynthesis."
+  },
+  {
+    "category": "Science",
+    "difficulty": "Easy",
+    "kind": "True/False",
+    "text": "The Sun is a planet.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False",
+    "explanation": "The Sun is a star, powered by nuclear fusion."
+  },
+  {
+    "category": "Science",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which organelle is the main site of aerobic ATP production in eukaryotic cells?",
+    "answers": [
+      "Mitochondrion",
+      "Ribosome",
+      "Golgi apparatus",
+      "Lysosome"
+    ],
+    "correct": "Mitochondrion",
+    "explanation": "Mitochondria generate much of the cell's ATP through aerobic respiration."
+  },
+  {
+    "category": "Science",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "What is the atomic number of carbon?",
+    "answers": [
+      "6",
+      "8",
+      "12",
+      "14"
+    ],
+    "correct": "6",
+    "explanation": "Carbon has six protons, which defines its atomic number."
+  },
+  {
+    "category": "Science",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which blood cells primarily transport oxygen?",
+    "answers": [
+      "Red blood cells",
+      "Platelets",
+      "B lymphocytes",
+      "Neutrophils"
+    ],
+    "correct": "Red blood cells",
+    "explanation": "Hemoglobin in red blood cells binds and transports oxygen."
+  },
+  {
+    "category": "Science",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "What type of wave is sound traveling through air?",
+    "answers": [
+      "Longitudinal mechanical",
+      "Transverse electromagnetic",
+      "Transverse gravitational",
+      "Static electric"
+    ],
+    "correct": "Longitudinal mechanical",
+    "explanation": "Air particles vibrate parallel to the direction of sound propagation."
+  },
+  {
+    "category": "Science",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which scientist formulated the three laws of planetary motion?",
+    "answers": [
+      "Johannes Kepler",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Niels Bohr"
+    ],
+    "correct": "Johannes Kepler",
+    "explanation": "Kepler described planetary orbits and their timing in three laws."
+  },
+  {
+    "category": "Science",
+    "difficulty": "Medium",
+    "kind": "True/False",
+    "text": "Sound can travel through a perfect vacuum.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False",
+    "explanation": "Sound requires a material medium."
+  },
+  {
+    "category": "Science",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "What is the SI unit of electrical capacitance?",
+    "answers": [
+      "Farad",
+      "Henry",
+      "Tesla",
+      "Siemens"
+    ],
+    "correct": "Farad",
+    "explanation": "Capacitance is measured in farads, equivalent to coulombs per volt."
+  },
+  {
+    "category": "Science",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which quantum number describes an orbital's shape?",
+    "answers": [
+      "Azimuthal quantum number",
+      "Principal quantum number",
+      "Spin quantum number",
+      "Magnetic quantum number"
+    ],
+    "correct": "Azimuthal quantum number",
+    "explanation": "The azimuthal quantum number determines the orbital subshell and shape."
+  },
+  {
+    "category": "Science",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "What is the conjugate base of H2CO3 after losing one proton?",
+    "answers": [
+      "HCO3−",
+      "CO3²−",
+      "H3O+",
+      "OH−"
+    ],
+    "correct": "HCO3−",
+    "explanation": "Removing one hydrogen ion from carbonic acid produces bicarbonate."
+  },
+  {
+    "category": "Science",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which enzyme synthesizes RNA using a DNA template?",
+    "answers": [
+      "RNA polymerase",
+      "DNA ligase",
+      "Helicase",
+      "Pepsin"
+    ],
+    "correct": "RNA polymerase",
+    "explanation": "RNA polymerase transcribes DNA into RNA."
+  },
+  {
+    "category": "Science",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which principle states that no two identical fermions can occupy the same quantum state?",
+    "answers": [
+      "Pauli exclusion principle",
+      "Archimedes' principle",
+      "Huygens' principle",
+      "Le Chatelier's principle"
+    ],
+    "correct": "Pauli exclusion principle",
+    "explanation": "The Pauli exclusion principle applies to identical fermions such as electrons."
+  },
+  {
+    "category": "Science",
+    "difficulty": "Hard",
+    "kind": "True/False",
+    "text": "Isotopes of the same element have different numbers of protons.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False",
+    "explanation": "Isotopes have equal proton counts but different neutron counts."
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "What does GPS stand for?",
+    "answers": [
+      "Global Positioning System",
+      "General Power Supply",
+      "Global Printing Service",
+      "Guided Phone Signal"
+    ],
+    "correct": "Global Positioning System",
+    "explanation": "GPS is a satellite-based positioning system."
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which technology is commonly used for short-range wireless headphones?",
+    "answers": [
+      "Bluetooth",
+      "HDMI",
+      "Ethernet",
+      "SATA"
+    ],
+    "correct": "Bluetooth",
+    "explanation": "Bluetooth supports short-range wireless data and audio links."
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "What does a solar photovoltaic panel convert into electricity?",
+    "answers": [
+      "Sunlight",
+      "Wind",
+      "Sound",
+      "Ocean tides"
+    ],
+    "correct": "Sunlight",
+    "explanation": "Photovoltaic cells convert light energy into electrical energy."
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which device creates physical objects by depositing material layer by layer?",
+    "answers": [
+      "3D printer",
+      "Scanner",
+      "Projector",
+      "Router"
+    ],
+    "correct": "3D printer",
+    "explanation": "Additive manufacturing builds objects in successive layers."
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "What is the main purpose of a rechargeable battery?",
+    "answers": [
+      "Store electrical energy for later use",
+      "Measure air speed",
+      "Filter light",
+      "Amplify gravity"
+    ],
+    "correct": "Store electrical energy for later use",
+    "explanation": "Rechargeable batteries store energy chemically and release it electrically."
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "kind": "True/False",
+    "text": "A microphone can convert sound into an electrical signal.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True",
+    "explanation": "Microphones transduce acoustic vibrations into electrical signals."
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "What does NFC stand for in contactless payment technology?",
+    "answers": [
+      "Near Field Communication",
+      "Network File Control",
+      "New Frequency Circuit",
+      "Node Format Conversion"
+    ],
+    "correct": "Near Field Communication",
+    "explanation": "NFC enables communication over very short distances."
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which component converts mechanical rotation into electrical energy?",
+    "answers": [
+      "Generator",
+      "Resistor",
+      "Capacitor",
+      "Microphone preamp"
+    ],
+    "correct": "Generator",
+    "explanation": "A generator uses electromagnetic induction to produce electricity."
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "What is the main function of a heat sink?",
+    "answers": [
+      "Dissipate heat",
+      "Store data",
+      "Increase voltage",
+      "Generate light"
+    ],
+    "correct": "Dissipate heat",
+    "explanation": "A heat sink transfers heat away from a component to its surroundings."
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which technology uses light pulses through glass fibers to carry data?",
+    "answers": [
+      "Fiber optics",
+      "AM radio",
+      "Magnetic tape",
+      "Pneumatic signaling"
+    ],
+    "correct": "Fiber optics",
+    "explanation": "Optical fibers guide light carrying encoded information."
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "What does CAD stand for in engineering design?",
+    "answers": [
+      "Computer-Aided Design",
+      "Circuit Alignment Device",
+      "Central Audio Driver",
+      "Calculated Air Density"
+    ],
+    "correct": "Computer-Aided Design",
+    "explanation": "CAD software assists in creating and modifying designs."
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "kind": "True/False",
+    "text": "An electric transformer requires a changing magnetic flux to induce voltage.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True",
+    "explanation": "Electromagnetic induction depends on changing magnetic flux."
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which effect allows certain crystals to generate voltage under mechanical stress?",
+    "answers": [
+      "Piezoelectric effect",
+      "Doppler effect",
+      "Photoelectric effect",
+      "Coriolis effect"
+    ],
+    "correct": "Piezoelectric effect",
+    "explanation": "Piezoelectric materials develop electrical charge when mechanically stressed."
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "What does LiDAR primarily use to measure distance?",
+    "answers": [
+      "Laser light",
+      "Sound waves",
+      "Radioactive decay",
+      "Magnetic attraction"
+    ],
+    "correct": "Laser light",
+    "explanation": "LiDAR determines distance from reflected laser pulses."
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which semiconductor junction emits light in an LED?",
+    "answers": [
+      "Forward-biased p–n junction",
+      "Reverse-biased metal contact",
+      "Open mechanical switch",
+      "Uncharged capacitor"
+    ],
+    "correct": "Forward-biased p–n junction",
+    "explanation": "Electron-hole recombination in a forward-biased LED junction emits photons."
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "In control systems, what does PID stand for?",
+    "answers": [
+      "Proportional Integral Derivative",
+      "Power Input Distribution",
+      "Pulse Inversion Delay",
+      "Parallel Integrated Device"
+    ],
+    "correct": "Proportional Integral Derivative",
+    "explanation": "A PID controller combines proportional, integral, and derivative terms."
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which process removes material from a semiconductor wafer using patterned masks?",
+    "answers": [
+      "Etching",
+      "Forging",
+      "Extrusion",
+      "Annealing only"
+    ],
+    "correct": "Etching",
+    "explanation": "Etching selectively removes material during semiconductor fabrication."
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "kind": "True/False",
+    "text": "A thermocouple measures temperature using a voltage generated between dissimilar conductors.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True",
+    "explanation": "Thermocouples operate through the Seebeck effect."
+  },
+  {
+    "category": "Computers",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "What does CPU stand for?",
+    "answers": [
+      "Central Processing Unit",
+      "Computer Power Utility",
+      "Central Print User",
+      "Control Program Upload"
+    ],
+    "correct": "Central Processing Unit",
+    "explanation": "The CPU executes program instructions."
+  },
+  {
+    "category": "Computers",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which device is primarily used to move a pointer on a desktop computer?",
+    "answers": [
+      "Mouse",
+      "Printer",
+      "Speaker",
+      "Microphone"
+    ],
+    "correct": "Mouse",
+    "explanation": "A mouse controls the on-screen pointer."
+  },
+  {
+    "category": "Computers",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which type of memory usually loses its contents when power is removed?",
+    "answers": [
+      "RAM",
+      "SSD",
+      "Hard disk",
+      "DVD"
+    ],
+    "correct": "RAM",
+    "explanation": "Ordinary system RAM is volatile memory."
+  },
+  {
+    "category": "Computers",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which symbol commonly separates a username from a domain in an email address?",
+    "answers": [
+      "@",
+      "#",
+      "%",
+      "&"
+    ],
+    "correct": "@",
+    "explanation": "An email address typically has the form user@domain."
+  },
+  {
+    "category": "Computers",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which of these is an operating system?",
+    "answers": [
+      "Linux",
+      "HTML",
+      "USB",
+      "JPEG"
+    ],
+    "correct": "Linux",
+    "explanation": "Linux is the kernel underlying Linux-based operating systems."
+  },
+  {
+    "category": "Computers",
+    "difficulty": "Easy",
+    "kind": "True/False",
+    "text": "A byte consists of eight bits in modern computer systems.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True",
+    "explanation": "Modern systems use eight-bit bytes."
+  },
+  {
+    "category": "Computers",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "What does SQL stand for?",
+    "answers": [
+      "Structured Query Language",
+      "Sequential Queue Logic",
+      "Standard Quality Link",
+      "System Quick Loader"
+    ],
+    "correct": "Structured Query Language",
+    "explanation": "SQL is used to define and query relational data."
+  },
+  {
+    "category": "Computers",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which data structure follows first-in, first-out order?",
+    "answers": [
+      "Queue",
+      "Stack",
+      "Binary search tree",
+      "Set"
+    ],
+    "correct": "Queue",
+    "explanation": "A queue removes items in the order they were added."
+  },
+  {
+    "category": "Computers",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "What does DNS resolve in a typical web lookup?",
+    "answers": [
+      "Domain name to IP address",
+      "Image to text",
+      "Password to username",
+      "Voltage to current"
+    ],
+    "correct": "Domain name to IP address",
+    "explanation": "DNS records map domain names to information such as IP addresses."
+  },
+  {
+    "category": "Computers",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which number system uses only the digits 0 and 1?",
+    "answers": [
+      "Binary",
+      "Decimal",
+      "Octal",
+      "Hexadecimal"
+    ],
+    "correct": "Binary",
+    "explanation": "Binary is base two."
+  },
+  {
+    "category": "Computers",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "What does an HTTP 404 response conventionally mean?",
+    "answers": [
+      "Not Found",
+      "OK",
+      "Forbidden",
+      "Internal Server Error"
+    ],
+    "correct": "Not Found",
+    "explanation": "HTTP status 404 indicates the requested resource was not found."
+  },
+  {
+    "category": "Computers",
+    "difficulty": "Medium",
+    "kind": "True/False",
+    "text": "A stack follows last-in, first-out order.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True",
+    "explanation": "The most recently pushed item is popped first."
+  },
+  {
+    "category": "Computers",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "What is the average search complexity of a balanced binary search tree with n elements?",
+    "answers": [
+      "O(log n)",
+      "O(n²)",
+      "O(1) always",
+      "O(n log n)"
+    ],
+    "correct": "O(log n)",
+    "explanation": "A balanced tree has logarithmic height."
+  },
+  {
+    "category": "Computers",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which database property means a transaction happens entirely or not at all?",
+    "answers": [
+      "Atomicity",
+      "Availability",
+      "Redundancy",
+      "Normalization"
+    ],
+    "correct": "Atomicity",
+    "explanation": "Atomicity prevents partially applied transactions."
+  },
+  {
+    "category": "Computers",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "How many bits are in an IPv6 address?",
+    "answers": [
+      "128",
+      "32",
+      "64",
+      "256"
+    ],
+    "correct": "128",
+    "explanation": "IPv6 addresses contain 128 bits."
+  },
+  {
+    "category": "Computers",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which algorithm finds shortest paths from one source with nonnegative edge weights?",
+    "answers": [
+      "Dijkstra's algorithm",
+      "Quicksort",
+      "Kruskal's algorithm",
+      "KMP algorithm"
+    ],
+    "correct": "Dijkstra's algorithm",
+    "explanation": "Dijkstra's algorithm solves this shortest-path problem for nonnegative weights."
+  },
+  {
+    "category": "Computers",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "What is the primary purpose of a cryptographic salt in password hashing?",
+    "answers": [
+      "Make identical passwords hash differently",
+      "Encrypt network packets",
+      "Shorten passwords",
+      "Replace the hash function"
+    ],
+    "correct": "Make identical passwords hash differently",
+    "explanation": "A unique salt prevents identical passwords from sharing identical hashes."
+  },
+  {
+    "category": "Computers",
+    "difficulty": "Hard",
+    "kind": "True/False",
+    "text": "Every problem in NP is known to be solvable in polynomial time.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False",
+    "explanation": "Whether P equals NP is an unresolved problem."
+  },
+  {
+    "category": "History",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which civilization built the pyramids at Giza?",
+    "answers": [
+      "Ancient Egyptians",
+      "Vikings",
+      "Aztecs",
+      "Phoenicians"
+    ],
+    "correct": "Ancient Egyptians",
+    "explanation": "The Giza pyramids were built during Egypt's Old Kingdom."
+  },
+  {
+    "category": "History",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "In which year did the first crewed Moon landing occur?",
+    "answers": [
+      "1969",
+      "1959",
+      "1979",
+      "1989"
+    ],
+    "correct": "1969",
+    "explanation": "Apollo 11 landed humans on the Moon in July 1969."
+  },
+  {
+    "category": "History",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Who was the first president of the United States?",
+    "answers": [
+      "George Washington",
+      "Abraham Lincoln",
+      "John Adams",
+      "Thomas Jefferson"
+    ],
+    "correct": "George Washington",
+    "explanation": "George Washington served as the first US president from 1789."
+  },
+  {
+    "category": "History",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which wall divided a German city during the Cold War?",
+    "answers": [
+      "Berlin Wall",
+      "Hadrian's Wall",
+      "Great Wall",
+      "Western Wall"
+    ],
+    "correct": "Berlin Wall",
+    "explanation": "The Berlin Wall separated East and West Berlin."
+  },
+  {
+    "category": "History",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which ancient city was buried by the eruption of Vesuvius in AD 79?",
+    "answers": [
+      "Pompeii",
+      "Athens",
+      "Carthage",
+      "Babylon"
+    ],
+    "correct": "Pompeii",
+    "explanation": "Vesuvius buried Pompeii and nearby settlements in AD 79."
+  },
+  {
+    "category": "History",
+    "difficulty": "Easy",
+    "kind": "True/False",
+    "text": "The ancient Olympic Games originated in Greece.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True",
+    "explanation": "The ancient Games were held at Olympia in Greece."
+  },
+  {
+    "category": "History",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "In which year was Magna Carta first issued?",
+    "answers": [
+      "1215",
+      "1066",
+      "1453",
+      "1648"
+    ],
+    "correct": "1215",
+    "explanation": "King John agreed to Magna Carta at Runnymede in 1215."
+  },
+  {
+    "category": "History",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which empire was ruled by Suleiman the Magnificent?",
+    "answers": [
+      "Ottoman Empire",
+      "Roman Empire",
+      "Mongol Empire",
+      "Inca Empire"
+    ],
+    "correct": "Ottoman Empire",
+    "explanation": "Suleiman ruled the Ottoman Empire in the sixteenth century."
+  },
+  {
+    "category": "History",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which invention is Johannes Gutenberg best known for developing in Europe?",
+    "answers": [
+      "Movable-type printing press",
+      "Steam engine",
+      "Telephone",
+      "Telescope"
+    ],
+    "correct": "Movable-type printing press",
+    "explanation": "Gutenberg developed a practical movable-metal-type printing system in Europe."
+  },
+  {
+    "category": "History",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which revolution began in France in 1789?",
+    "answers": [
+      "French Revolution",
+      "Industrial Revolution",
+      "Glorious Revolution",
+      "October Revolution"
+    ],
+    "correct": "French Revolution",
+    "explanation": "The French Revolution began in 1789."
+  },
+  {
+    "category": "History",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which explorer led the expedition that first circumnavigated the globe, though he died en route?",
+    "answers": [
+      "Ferdinand Magellan",
+      "Christopher Columbus",
+      "James Cook",
+      "Marco Polo"
+    ],
+    "correct": "Ferdinand Magellan",
+    "explanation": "Magellan led the expedition; Juan Sebastián Elcano completed the circumnavigation."
+  },
+  {
+    "category": "History",
+    "difficulty": "Medium",
+    "kind": "True/False",
+    "text": "The Western Roman Empire traditionally dates its fall to AD 476.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True",
+    "explanation": "AD 476 marks the deposition of Romulus Augustulus."
+  },
+  {
+    "category": "History",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which 1648 peace settlement ended the Thirty Years' War?",
+    "answers": [
+      "Peace of Westphalia",
+      "Treaty of Utrecht",
+      "Treaty of Tordesillas",
+      "Treaty of Paris of 1783"
+    ],
+    "correct": "Peace of Westphalia",
+    "explanation": "The Peace of Westphalia ended the Thirty Years' War in 1648."
+  },
+  {
+    "category": "History",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which dynasty ruled China when Zheng He made his major voyages?",
+    "answers": [
+      "Ming",
+      "Tang",
+      "Qing",
+      "Han"
+    ],
+    "correct": "Ming",
+    "explanation": "Zheng He's voyages took place under the Ming dynasty."
+  },
+  {
+    "category": "History",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Who was the Byzantine emperor during the construction of the sixth-century Hagia Sophia?",
+    "answers": [
+      "Justinian I",
+      "Constantine XI",
+      "Basil II",
+      "Alexios I"
+    ],
+    "correct": "Justinian I",
+    "explanation": "Justinian I commissioned the great church completed in 537."
+  },
+  {
+    "category": "History",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which battle in 1066 established Norman control of England?",
+    "answers": [
+      "Battle of Hastings",
+      "Battle of Agincourt",
+      "Battle of Bosworth",
+      "Battle of Bannockburn"
+    ],
+    "correct": "Battle of Hastings",
+    "explanation": "William of Normandy defeated Harold II at Hastings."
+  },
+  {
+    "category": "History",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which ancient writing system used wedge-shaped impressions in clay?",
+    "answers": [
+      "Cuneiform",
+      "Linear B",
+      "Ogham",
+      "Hangul"
+    ],
+    "correct": "Cuneiform",
+    "explanation": "Cuneiform signs were impressed into clay with a stylus."
+  },
+  {
+    "category": "History",
+    "difficulty": "Hard",
+    "kind": "True/False",
+    "text": "The Rosetta Stone contains the same decree in three different scripts.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True",
+    "explanation": "It uses hieroglyphic, Demotic, and Greek scripts."
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "What is the capital of Japan?",
+    "answers": [
+      "Tokyo",
+      "Kyoto",
+      "Osaka",
+      "Seoul"
+    ],
+    "correct": "Tokyo",
+    "explanation": "Tokyo is Japan's capital."
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which is the largest ocean on Earth by surface area?",
+    "answers": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correct": "Pacific Ocean",
+    "explanation": "The Pacific is the largest ocean basin."
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "On which continent is the Sahara Desert?",
+    "answers": [
+      "Africa",
+      "Asia",
+      "Australia",
+      "South America"
+    ],
+    "correct": "Africa",
+    "explanation": "The Sahara stretches across North Africa."
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which country has the city of Sydney?",
+    "answers": [
+      "Australia",
+      "Canada",
+      "New Zealand",
+      "South Africa"
+    ],
+    "correct": "Australia",
+    "explanation": "Sydney is a city in New South Wales, Australia."
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "What imaginary line divides Earth into Northern and Southern Hemispheres?",
+    "answers": [
+      "Equator",
+      "Prime meridian",
+      "Tropic of Cancer",
+      "International Date Line"
+    ],
+    "correct": "Equator",
+    "explanation": "The equator is at zero degrees latitude."
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "kind": "True/False",
+    "text": "Antarctica is a continent.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True",
+    "explanation": "Antarctica is the southernmost continent."
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which country surrounds Lesotho on all sides?",
+    "answers": [
+      "South Africa",
+      "Kenya",
+      "Namibia",
+      "Botswana"
+    ],
+    "correct": "South Africa",
+    "explanation": "Lesotho is an enclave within South Africa."
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which mountain range forms a natural border between France and Spain?",
+    "answers": [
+      "Pyrenees",
+      "Alps",
+      "Andes",
+      "Carpathians"
+    ],
+    "correct": "Pyrenees",
+    "explanation": "The Pyrenees run along the France-Spain border."
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which river flows through Baghdad?",
+    "answers": [
+      "Tigris",
+      "Nile",
+      "Danube",
+      "Rhine"
+    ],
+    "correct": "Tigris",
+    "explanation": "Baghdad lies on the Tigris River."
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "What is the capital of Canada?",
+    "answers": [
+      "Ottawa",
+      "Toronto",
+      "Vancouver",
+      "Montreal"
+    ],
+    "correct": "Ottawa",
+    "explanation": "Ottawa is Canada's federal capital."
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which strait separates Europe and Africa near Spain and Morocco?",
+    "answers": [
+      "Strait of Gibraltar",
+      "Bering Strait",
+      "Strait of Hormuz",
+      "Malacca Strait"
+    ],
+    "correct": "Strait of Gibraltar",
+    "explanation": "The Strait of Gibraltar connects the Atlantic and Mediterranean."
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Medium",
+    "kind": "True/False",
+    "text": "The equator crosses Brazil.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True",
+    "explanation": "Northern Brazil lies on both sides of the equator."
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which lake is the deepest freshwater lake in the world?",
+    "answers": [
+      "Lake Baikal",
+      "Lake Victoria",
+      "Lake Superior",
+      "Lake Titicaca"
+    ],
+    "correct": "Lake Baikal",
+    "explanation": "Lake Baikal in Siberia is the world's deepest freshwater lake."
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which country contains the region of Transylvania?",
+    "answers": [
+      "Romania",
+      "Bulgaria",
+      "Hungary",
+      "Slovakia"
+    ],
+    "correct": "Romania",
+    "explanation": "Transylvania is a historical region of Romania."
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which desert lies chiefly in northern Chile?",
+    "answers": [
+      "Atacama",
+      "Gobi",
+      "Kalahari",
+      "Thar"
+    ],
+    "correct": "Atacama",
+    "explanation": "The Atacama Desert lies along the Pacific side of northern Chile."
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which sea lies between the Arabian Peninsula and northeastern Africa?",
+    "answers": [
+      "Red Sea",
+      "Black Sea",
+      "Baltic Sea",
+      "Caspian Sea"
+    ],
+    "correct": "Red Sea",
+    "explanation": "The Red Sea separates these regions."
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "What is the capital of Bhutan?",
+    "answers": [
+      "Thimphu",
+      "Kathmandu",
+      "Dhaka",
+      "Vientiane"
+    ],
+    "correct": "Thimphu",
+    "explanation": "Thimphu is Bhutan's capital."
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Hard",
+    "kind": "True/False",
+    "text": "The Caspian Sea has a natural outlet to the world ocean.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False",
+    "explanation": "The Caspian is an inland, endorheic body of water."
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "How many players does a soccer team normally have on the field at the start?",
+    "answers": [
+      "11",
+      "9",
+      "10",
+      "12"
+    ],
+    "correct": "11",
+    "explanation": "A standard association football team starts with eleven players."
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which sport uses a shuttlecock?",
+    "answers": [
+      "Badminton",
+      "Tennis",
+      "Squash",
+      "Baseball"
+    ],
+    "correct": "Badminton",
+    "explanation": "Badminton players hit a shuttlecock over a net."
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "How many rings are in the Olympic symbol?",
+    "answers": [
+      "Five",
+      "Four",
+      "Six",
+      "Seven"
+    ],
+    "correct": "Five",
+    "explanation": "The Olympic symbol has five interlaced rings."
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "In which sport is a home run scored?",
+    "answers": [
+      "Baseball",
+      "Basketball",
+      "Rugby",
+      "Volleyball"
+    ],
+    "correct": "Baseball",
+    "explanation": "A home run allows the batter to circle all the bases."
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which sport is played at Wimbledon?",
+    "answers": [
+      "Tennis",
+      "Golf",
+      "Cricket",
+      "Hockey"
+    ],
+    "correct": "Tennis",
+    "explanation": "Wimbledon is a major grass-court tennis tournament."
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Easy",
+    "kind": "True/False",
+    "text": "A standard basketball team fields five players at a time.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True",
+    "explanation": "Five players from each team are on the court."
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "What is the standard marathon distance?",
+    "answers": [
+      "42.195 km",
+      "40 km",
+      "21.1 km",
+      "50 km"
+    ],
+    "correct": "42.195 km",
+    "explanation": "A marathon is officially 42.195 kilometers long."
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "How many points is a free throw worth in basketball?",
+    "answers": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correct": "One",
+    "explanation": "A successful free throw scores one point."
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "In cricket, what is three wickets with three consecutive deliveries called?",
+    "answers": [
+      "Hat-trick",
+      "Century",
+      "Maiden",
+      "Yorker"
+    ],
+    "correct": "Hat-trick",
+    "explanation": "A hat-trick consists of wickets with three consecutive deliveries by a bowler."
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which swimming stroke uses a simultaneous dolphin kick and over-water arm recovery?",
+    "answers": [
+      "Butterfly",
+      "Backstroke",
+      "Breaststroke",
+      "Freestyle crawl"
+    ],
+    "correct": "Butterfly",
+    "explanation": "Butterfly combines simultaneous arm movement with a dolphin kick."
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "How many events are in a decathlon?",
+    "answers": [
+      "Ten",
+      "Eight",
+      "Twelve",
+      "Seven"
+    ],
+    "correct": "Ten",
+    "explanation": "A decathlon comprises ten track-and-field events."
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "kind": "True/False",
+    "text": "A standard volleyball team has six players on court.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True",
+    "explanation": "Indoor volleyball uses six players per side."
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "In snooker, how many points is the black ball worth?",
+    "answers": [
+      "Seven",
+      "Five",
+      "Six",
+      "Eight"
+    ],
+    "correct": "Seven",
+    "explanation": "The black is worth seven points, the most of any individual ball."
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "What is the maximum score with three darts in standard darts?",
+    "answers": [
+      "180",
+      "150",
+      "170",
+      "200"
+    ],
+    "correct": "180",
+    "explanation": "Three treble twenties total 180."
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "In fencing, which weapon permits the whole body as a valid target?",
+    "answers": [
+      "Épée",
+      "Foil",
+      "Sabre",
+      "Singlestick"
+    ],
+    "correct": "Épée",
+    "explanation": "Épée uses the entire body as a target."
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "In golf, what is a score of three under par on a single hole called?",
+    "answers": [
+      "Albatross",
+      "Eagle",
+      "Birdie",
+      "Bogey"
+    ],
+    "correct": "Albatross",
+    "explanation": "An albatross, also called a double eagle, is three under par."
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which country hosted the first men's FIFA World Cup in 1930?",
+    "answers": [
+      "Uruguay",
+      "Brazil",
+      "Italy",
+      "France"
+    ],
+    "correct": "Uruguay",
+    "explanation": "Uruguay hosted and won the inaugural men's World Cup."
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "kind": "True/False",
+    "text": "In chess, a king may castle while it is in check.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False",
+    "explanation": "Castling out of check is not permitted."
+  },
+  {
+    "category": "Movies & Entertainment",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which film series features the character Darth Vader?",
+    "answers": [
+      "Star Wars",
+      "Star Trek",
+      "Harry Potter",
+      "The Hunger Games"
+    ],
+    "correct": "Star Wars",
+    "explanation": "Darth Vader is a central character in Star Wars."
+  },
+  {
+    "category": "Movies & Entertainment",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which animated film features the song 'Let It Go'?",
+    "answers": [
+      "Frozen",
+      "Moana",
+      "Tangled",
+      "Brave"
+    ],
+    "correct": "Frozen",
+    "explanation": "Elsa sings Let It Go in Disney's Frozen."
+  },
+  {
+    "category": "Movies & Entertainment",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "What is the name of the cowboy toy in Toy Story?",
+    "answers": [
+      "Woody",
+      "Buzz",
+      "Rex",
+      "Hamm"
+    ],
+    "correct": "Woody",
+    "explanation": "Woody is the cowboy doll in Toy Story."
+  },
+  {
+    "category": "Movies & Entertainment",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which superhero is also known as Bruce Wayne?",
+    "answers": [
+      "Batman",
+      "Superman",
+      "Spider-Man",
+      "Iron Man"
+    ],
+    "correct": "Batman",
+    "explanation": "Bruce Wayne is Batman's civilian identity."
+  },
+  {
+    "category": "Movies & Entertainment",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which musical instrument usually has 88 keys in its standard modern form?",
+    "answers": [
+      "Piano",
+      "Violin",
+      "Flute",
+      "Trumpet"
+    ],
+    "correct": "Piano",
+    "explanation": "A standard full-size modern piano has 88 keys."
+  },
+  {
+    "category": "Movies & Entertainment",
+    "difficulty": "Easy",
+    "kind": "True/False",
+    "text": "The Lion King features a lion named Simba.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True",
+    "explanation": "Simba is the central lion character."
+  },
+  {
+    "category": "Movies & Entertainment",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Who directed the 1993 film Jurassic Park?",
+    "answers": [
+      "Steven Spielberg",
+      "James Cameron",
+      "Ridley Scott",
+      "Tim Burton"
+    ],
+    "correct": "Steven Spielberg",
+    "explanation": "Steven Spielberg directed Jurassic Park."
+  },
+  {
+    "category": "Movies & Entertainment",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which composer wrote The Four Seasons?",
+    "answers": [
+      "Antonio Vivaldi",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Frédéric Chopin"
+    ],
+    "correct": "Antonio Vivaldi",
+    "explanation": "Vivaldi composed the four violin concertos known as The Four Seasons."
+  },
+  {
+    "category": "Movies & Entertainment",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which studio produced Spirited Away?",
+    "answers": [
+      "Studio Ghibli",
+      "Pixar",
+      "DreamWorks",
+      "Aardman"
+    ],
+    "correct": "Studio Ghibli",
+    "explanation": "Spirited Away is a Studio Ghibli film directed by Hayao Miyazaki."
+  },
+  {
+    "category": "Movies & Entertainment",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which actor played Jack in the 1997 film Titanic?",
+    "answers": [
+      "Leonardo DiCaprio",
+      "Brad Pitt",
+      "Matt Damon",
+      "Christian Bale"
+    ],
+    "correct": "Leonardo DiCaprio",
+    "explanation": "Leonardo DiCaprio played Jack Dawson."
+  },
+  {
+    "category": "Movies & Entertainment",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "In music, how many semitones are in an octave in twelve-tone equal temperament?",
+    "answers": [
+      "12",
+      "8",
+      "10",
+      "14"
+    ],
+    "correct": "12",
+    "explanation": "An octave is divided into twelve equal semitones."
+  },
+  {
+    "category": "Movies & Entertainment",
+    "difficulty": "Medium",
+    "kind": "True/False",
+    "text": "A cappella singing is performed without instrumental accompaniment.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True",
+    "explanation": "A cappella means unaccompanied vocal performance."
+  },
+  {
+    "category": "Movies & Entertainment",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Who directed the 1954 film Seven Samurai?",
+    "answers": [
+      "Akira Kurosawa",
+      "Yasujirō Ozu",
+      "Satyajit Ray",
+      "Ingmar Bergman"
+    ],
+    "correct": "Akira Kurosawa",
+    "explanation": "Seven Samurai was directed by Akira Kurosawa."
+  },
+  {
+    "category": "Movies & Entertainment",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which film won the first Academy Award for Outstanding Picture, now called Best Picture?",
+    "answers": [
+      "Wings",
+      "The Jazz Singer",
+      "Metropolis",
+      "Sunrise"
+    ],
+    "correct": "Wings",
+    "explanation": "Wings received Outstanding Picture at the first Academy Awards."
+  },
+  {
+    "category": "Movies & Entertainment",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which composer wrote the opera The Magic Flute?",
+    "answers": [
+      "Wolfgang Amadeus Mozart",
+      "Giuseppe Verdi",
+      "Richard Wagner",
+      "Giacomo Puccini"
+    ],
+    "correct": "Wolfgang Amadeus Mozart",
+    "explanation": "Mozart composed The Magic Flute, premiered in 1791."
+  },
+  {
+    "category": "Movies & Entertainment",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "What is a camera shot with continuous action and no visible cuts commonly called?",
+    "answers": [
+      "Long take",
+      "Jump cut",
+      "Cross-cut",
+      "Match cut"
+    ],
+    "correct": "Long take",
+    "explanation": "A long take records extended action in a single shot."
+  },
+  {
+    "category": "Movies & Entertainment",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which Italian film movement is associated with Bicycle Thieves?",
+    "answers": [
+      "Neorealism",
+      "Expressionism",
+      "Surrealism",
+      "French New Wave"
+    ],
+    "correct": "Neorealism",
+    "explanation": "Bicycle Thieves is a landmark of Italian neorealism."
+  },
+  {
+    "category": "Movies & Entertainment",
+    "difficulty": "Hard",
+    "kind": "True/False",
+    "text": "A non-diegetic film score is heard by characters within the story world.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False",
+    "explanation": "Non-diegetic music exists outside the characters' story world."
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Who wrote Romeo and Juliet?",
+    "answers": [
+      "William Shakespeare",
+      "Charles Dickens",
+      "Jane Austen",
+      "Mark Twain"
+    ],
+    "correct": "William Shakespeare",
+    "explanation": "Romeo and Juliet is a tragedy by William Shakespeare."
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which character follows a white rabbit into Wonderland?",
+    "answers": [
+      "Alice",
+      "Dorothy",
+      "Wendy",
+      "Matilda"
+    ],
+    "correct": "Alice",
+    "explanation": "Alice follows the White Rabbit in Lewis Carroll's story."
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Who wrote the Harry Potter novels?",
+    "answers": [
+      "J. K. Rowling",
+      "J. R. R. Tolkien",
+      "C. S. Lewis",
+      "Roald Dahl"
+    ],
+    "correct": "J. K. Rowling",
+    "explanation": "J. K. Rowling wrote the seven main Harry Potter novels."
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "Which fictional detective lives at 221B Baker Street?",
+    "answers": [
+      "Sherlock Holmes",
+      "Hercule Poirot",
+      "Miss Marple",
+      "Philip Marlowe"
+    ],
+    "correct": "Sherlock Holmes",
+    "explanation": "Sherlock Holmes's fictional address is 221B Baker Street."
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Easy",
+    "kind": "Multiple choice",
+    "text": "What is a book about a person's life written by that person called?",
+    "answers": [
+      "Autobiography",
+      "Dictionary",
+      "Anthology",
+      "Atlas"
+    ],
+    "correct": "Autobiography",
+    "explanation": "An autobiography is an account of one's own life."
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Easy",
+    "kind": "True/False",
+    "text": "Aesop is associated with fables.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True",
+    "explanation": "Aesop's fables are short moral tales."
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Who wrote Pride and Prejudice?",
+    "answers": [
+      "Jane Austen",
+      "Charlotte Brontë",
+      "George Eliot",
+      "Mary Shelley"
+    ],
+    "correct": "Jane Austen",
+    "explanation": "Jane Austen's Pride and Prejudice was published in 1813."
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Which novel features the character Winston Smith?",
+    "answers": [
+      "Nineteen Eighty-Four",
+      "Brave New World",
+      "Fahrenheit 451",
+      "The Trial"
+    ],
+    "correct": "Nineteen Eighty-Four",
+    "explanation": "Winston Smith is the protagonist of George Orwell's Nineteen Eighty-Four."
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Who wrote The Hobbit?",
+    "answers": [
+      "J. R. R. Tolkien",
+      "C. S. Lewis",
+      "Philip Pullman",
+      "Terry Pratchett"
+    ],
+    "correct": "J. R. R. Tolkien",
+    "explanation": "Tolkien wrote The Hobbit, first published in 1937."
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "How many lines are in a traditional sonnet?",
+    "answers": [
+      "14",
+      "12",
+      "16",
+      "10"
+    ],
+    "correct": "14",
+    "explanation": "A traditional sonnet consists of fourteen lines."
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "kind": "Multiple choice",
+    "text": "Who wrote Frankenstein?",
+    "answers": [
+      "Mary Shelley",
+      "Bram Stoker",
+      "Oscar Wilde",
+      "Edgar Allan Poe"
+    ],
+    "correct": "Mary Shelley",
+    "explanation": "Mary Shelley's Frankenstein was first published in 1818."
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Medium",
+    "kind": "True/False",
+    "text": "Animal Farm was written by George Orwell.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "True",
+    "explanation": "Orwell published Animal Farm in 1945."
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Who wrote One Hundred Years of Solitude?",
+    "answers": [
+      "Gabriel García Márquez",
+      "Jorge Luis Borges",
+      "Pablo Neruda",
+      "Julio Cortázar"
+    ],
+    "correct": "Gabriel García Márquez",
+    "explanation": "Gabriel García Márquez wrote the novel about the Buendía family."
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which epic poem begins with the wrath of Achilles?",
+    "answers": [
+      "Iliad",
+      "Odyssey",
+      "Aeneid",
+      "Paradise Lost"
+    ],
+    "correct": "Iliad",
+    "explanation": "Homer's Iliad opens by invoking the anger of Achilles."
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which author created the fictional county of Yoknapatawpha?",
+    "answers": [
+      "William Faulkner",
+      "John Steinbeck",
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald"
+    ],
+    "correct": "William Faulkner",
+    "explanation": "Faulkner set many works in the fictional Mississippi county."
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Who wrote the play Waiting for Godot?",
+    "answers": [
+      "Samuel Beckett",
+      "Harold Pinter",
+      "Eugène Ionesco",
+      "Jean-Paul Sartre"
+    ],
+    "correct": "Samuel Beckett",
+    "explanation": "Samuel Beckett wrote Waiting for Godot."
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Hard",
+    "kind": "Multiple choice",
+    "text": "Which novel opens with the instruction 'Call me Ishmael'?",
+    "answers": [
+      "Moby-Dick",
+      "Treasure Island",
+      "Heart of Darkness",
+      "Robinson Crusoe"
+    ],
+    "correct": "Moby-Dick",
+    "explanation": "Ishmael narrates Herman Melville's Moby-Dick."
+  },
+  {
+    "category": "Literature",
+    "difficulty": "Hard",
+    "kind": "True/False",
+    "text": "Dante's Divine Comedy was originally written in Latin.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correct": "False",
+    "explanation": "Dante wrote the poem in Italian vernacular, chiefly Tuscan."
+  }
+]
