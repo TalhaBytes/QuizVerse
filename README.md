@@ -10,6 +10,13 @@
 
 QuizVerse is an offline Windows trivia game built with Python 3.12, PySide6, and SQLite. Choose a player, explore a subject, set your challenge, and earn points through accuracy, speed, and streaks. Every completed round includes an explanation-rich answer review.
 
+## Download
+
+Windows users can download the latest ready-to-run version from the
+[latest QuizVerse release](https://github.com/TalhaBytes/QuizVerse/releases/latest).
+
+No Python installation is required for the packaged Windows version.
+
 ![QuizVerse home screen](assets/images/home.png)
 
 ## Features
