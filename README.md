@@ -1,5 +1,11 @@
 # QuizVerse
 
+[![Windows Tests](https://github.com/TalhaBytes/QuizVerse/actions/workflows/tests.yml/badge.svg)](https://github.com/TalhaBytes/QuizVerse/actions/workflows/tests.yml)
+![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
+![PySide6](https://img.shields.io/badge/GUI-PySide6-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Release](https://img.shields.io/github/v/release/TalhaBytes/QuizVerse)
+
 **A universe of knowledge, right on your desktop.**
 
 QuizVerse is an offline Windows trivia game built with Python 3.12, PySide6, and SQLite. Choose a player, explore a subject, set your challenge, and earn points through accuracy, speed, and streaks. Every completed round includes an explanation-rich answer review.
